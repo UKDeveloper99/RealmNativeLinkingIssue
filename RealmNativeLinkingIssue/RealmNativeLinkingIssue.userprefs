@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{01F58EA5-F60A-4644-87B5-E14F71D5B885}|Default">
+  <MonoDevelop.Ide.ItemProperties.RealmNativeLinkingIssue PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.129a2d18ec9fa32d4f49331ce9584dbf7f59f947" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RealmNativeLinkingIssue/AppDelegate.cs">
+    <Files>
+      <File FileName="RealmNativeLinkingIssue/AppDelegate.cs" Line="30" Column="28" />
+      <File FileName="CorePCL/MyClass.cs" Line="1" Column="1" />
+      <File FileName="CorePCL/project.json" Line="1" Column="1" />
+      <File FileName="RealmNativeLinkingIssue/project.json" Line="1" Column="1" />
+      <File FileName="RealmNativeLinkingIssue/Main.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
